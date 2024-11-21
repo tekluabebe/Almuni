@@ -1,0 +1,81 @@
+#space{
+float:left;
+width:814px;
+height:708px;
+background-color:#BA55D3;
+}
+#body {
+	margin: 50px 80px 50px 150px;
+	text-align: left;
+	width: 1000px;
+	height:974px;
+	border-style:solid;
+	border-width:10px;
+	border-color:green;
+	  border-radius: 10px;
+}
+
+#bod {
+	margin: 50px 80px 50px 150px;
+	text-align: left;
+	width: 1000px;
+
+	border-style:solid;
+	border-width:10px;
+	border-color:green;
+	  border-radius: 10px;
+}
+#contianer{
+background:#eafdbc 
+url(iterfaceimage/bg.gif) repeat top left;
+}
+#adminb{
+float:left;
+margin:30px 5px 5px 10px;
+font-size:18px;
+width:300px;
+
+}
+#aform{
+background-color:#FFFFF0;
+text-align:center;
+margin:0px 20px 0px 0px;
+width:700px;
+height:685px;
+	border-style:solid;
+	border-width:5px;
+	border-color:#BA55D3;
+	  border-radius: 10px;
+}
+#aformsh{
+background-color:#FFFFF0;
+text-align:center;
+margin:0px 20px 0px 0px;
+width:800px;
+	border-style:solid;
+	border-width:5px;
+	border-color:#BA55D3;
+	  border-radius: 10px;
+}
+#mheaderr{
+	background-color:#F5FFFA;
+	color:red;
+		height:100px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+#amb{
+float:center;
+font-style: oblique;
+
+}
+#img{
+  border-radius:10px;
+margin: 5px 5px 5px 5px;
+float:right;
+}
+#im{
+  border-radius:10px;
+margin: 5px 5px 5px 5px;
+float:left;
+}
